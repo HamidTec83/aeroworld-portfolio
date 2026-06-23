@@ -62,3 +62,38 @@ aeroworld-portfolio/
 ├── videos/
 └── projects/
 ```
+---
+
+## Projets principaux
+
+| Projet | Description | Statut |
+|--------|-------------|--------|
+| ONCFM Faux Billets | Classification de faux billets par Machine Learning | En préparation |
+| Vocal Weather | Application météo vocale IA | En préparation |
+| DWFA | Dashboard Power BI sur l’accès mondial à l’eau potable | Disponible |
+| Étude marché volaille | Analyse ACP, clustering et scoring | Disponible |
+
+---
+
+## Documentation
+
+La documentation complète du projet est disponible dans le dossier :
+
+/docs
+
+---
+
+## Démonstration vidéo
+
+La démonstration vidéo Loom est disponible dans :
+
+/videos
+
+---
+
+## Contact
+
+- GitHub : HamidTec83
+- Formation : GRETA Tours — RNCP 37837
+- Disponibilité alternance IA : Septembre 2026
+
