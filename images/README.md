@@ -29,3 +29,28 @@ Les captures concernent principalement :
 - Vocal Weather ;
 - DWFA — Drinking Water For All ;
 - Étude de marché volaille.
+
+## Structure des captures
+
+```bash
+images/
+├── oncfm/
+│   ├── roc_curve.png
+│   ├── confusion_matrix.png
+│   └── cli_prediction.png
+│
+├── dwfa/
+│   ├── world_view.png
+│   ├── regional_view.png
+│   └── national_view.png
+│
+├── vocal-weather/
+│   ├── main_interface.png
+│   ├── weather_map.png
+│   └── forecast_chart.png
+│
+└── volaille/
+    ├── scree_plot.png
+    ├── clustering.png
+    └── market_ranking.png
+```
