@@ -1,4 +1,9 @@
 # Portfolio Data Analyst & Intelligence Artificielle — Candidature Aéroworld
+Portfolio professionnel présentant mes projets Data, BI, Machine Learning et Intelligence Artificielle.
+
+## Stack technique
+
+Power BI • Python • SQL • Machine Learning • Data Analysis • Data Visualization
 
 ## Présentation
 
@@ -66,28 +71,27 @@ aeroworld-portfolio/
 
 ## Projets principaux
 
-| Projet | Description | Statut |
-|--------|-------------|--------|
-| ONCFM Faux Billets | Classification de faux billets par Machine Learning | En préparation |
-| Vocal Weather | Application météo vocale IA | En préparation |
-| DWFA | Dashboard Power BI sur l’accès mondial à l’eau potable | Disponible |
-| Étude marché volaille | Analyse ACP, clustering et scoring | Disponible |
+| Projet | Description | Accès |
+|--------|-------------|-------|
+| ONCFM – Faux Billets | Classification de faux billets par Machine Learning | [Voir projet](./projects/oncfm.md) |
+| Vocal Weather | Assistant météo vocal intelligent | [Voir projet](./projects/vocal-weather.md) |
+| DWFA | Dashboard Power BI sur l’accès mondial à l’eau potable | [Voir projet](./projects/dwfa.md) |
+| Étude marché volaille | ACP, clustering et scoring marché | [Voir projet](./projects/volaille.md) |
 
 ---
 
 ## Documentation
 
-La documentation complète du projet est disponible dans le dossier :
+Documentation complète :
 
-/docs
+📁 [Ouvrir la documentation](./docs/README.md)
 
 ---
 
 ## Démonstration vidéo
 
-La démonstration vidéo Loom est disponible dans :
+🎥 [Voir la démonstration Loom](./videos/README.md)
 
-/videos
 
 ---
 
