@@ -77,6 +77,8 @@ aeroworld-portfolio/
 | Vocal Weather | Assistant météo vocal intelligent | [Voir projet](./projects/vocal-weather.md) |
 | DWFA | Dashboard Power BI sur l’accès mondial à l’eau potable | [Voir projet](./projects/dwfa.md) |
 | Étude marché volaille | ACP, clustering et scoring marché | [Voir projet](./projects/volaille.md) |
+| Autres projets | Projets complémentaires en SQL, Python, BI et Data Engineering | [Voir résumé](projects/autres-projets.md) |
+
 
 ---
 
