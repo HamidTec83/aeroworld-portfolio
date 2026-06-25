@@ -13,6 +13,28 @@ Sources utilisées :
 - World Governance Indicators
 
 ---
+## Captures du projet
+
+Les visualisations ci-dessous illustrent les principales étapes de l’analyse exploratoire, de la segmentation des marchés et du scoring final d’attractivité.
+
+### Variance expliquée cumulée (ACP)
+Cette courbe permet de déterminer le nombre de composantes principales nécessaires pour conserver l’essentiel de l’information.
+
+![Scree Plot](../images/volaille/scree_plot.png)
+
+---
+
+### Clustering K-Means
+Projection des pays sur les axes factoriels afin d’identifier les différents groupes de marchés.
+
+![Clustering](../images/volaille/clustering.png)
+
+---
+
+### Top 10 des marchés recommandés
+Classement final des marchés les plus attractifs pour l’exportation de volaille.
+
+![Market Ranking](../images/volaille/market_ranking.png)
 
 ## Objectif métier
 
