@@ -32,6 +32,8 @@ Les captures concernent principalement :
 
 ## Structure des captures
 
+Les captures actuellement disponibles dans ce dossier sont :
+
 ```bash
 images/
 ├── oncfm/
@@ -53,4 +55,27 @@ images/
     ├── scree_plot.png
     ├── clustering.png
     └── market_ranking.png
+```
+
+### Détail des visuels
+
+#### ONCFM — Détection de faux billets
+- Courbe ROC comparant les modèles de classification ;
+- Matrice de confusion du modèle final ;
+- Capture CLI de prédiction sur données de production.
+
+#### DWFA — Drinking Water For All
+- Vue mondiale du dashboard Power BI ;
+- Vue régionale OMS ;
+- Vue nationale détaillée.
+
+#### Vocal Weather
+- Interface principale Streamlit ;
+- Carte météo géolocalisée ;
+- Prévisions météo sur 7 jours.
+
+#### Étude de marché volaille
+- Variance expliquée cumulée (ACP) ;
+- Projection K-Means des clusters ;
+- Top 10 des marchés recommandés.
 ```
