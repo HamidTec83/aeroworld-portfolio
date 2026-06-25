@@ -76,7 +76,7 @@ Le projet est structuré en deux parties :
 
 ---
 
-## Technologies utilisées
+## Stack technique
 
 - Python
 - FastAPI
