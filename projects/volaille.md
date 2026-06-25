@@ -36,6 +36,19 @@ Classement final des marchés les plus attractifs pour l’exportation de volail
 
 ![Market Ranking](../images/volaille/market_ranking.png)
 
+---
+
+## Stack technique
+
+- Python 3.11
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- PCA (ACP)
+- KMeans
+- CAH
+
 ## Objectif métier
 
 L’étude vise à :
@@ -117,6 +130,7 @@ Une Analyse en Composantes Principales (ACP) a été réalisée afin de :
 - faciliter le clustering.
 
 L’ACP met en évidence plusieurs axes expliquant la majorité de la variance.
+6 composantes permettent de conserver plus de 90 % de la variance.
 
 ---
 
@@ -152,6 +166,7 @@ Variables pondérées :
 - population : 15 %
 
 Ce score permet de classer les marchés les plus attractifs.
+Les pondérations ont été définies pour équilibrer attractivité économique, potentiel de consommation et niveau de risque pays.
 
 ---
 
@@ -179,4 +194,5 @@ Ce projet démontre mes compétences en :
 
 ## Conclusion
 
-Cette étude montre ma capacité à transformer des données complexes en recommandations stratégiques orientées business.
+Cette étude démontre ma capacité à combiner statistiques, segmentation de marché et scoring métier  
+afin de transformer des données complexes en recommandations stratégiques orientées business.
