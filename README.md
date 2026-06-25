@@ -44,9 +44,9 @@ Il présente :
 
 ---
 
-## Dashboards Power BI
+## Portfolio interactif
 
-Ce portfolio contient deux dashboards Power BI :
+Ce portfolio inclut des dashboards Power BI et des projets Data & IA interactifs :
 
 ### Dashboard Profil Candidat
 Ce tableau de bord présente :
@@ -68,13 +68,15 @@ Ce tableau de bord présente :
 
 ## Structure du repository
 
-```bash
+
+```text
 aeroworld-portfolio/
-├── docs/
-├── images/
-├── videos/
-└── projects/
+├── docs/      # documentation complémentaire
+├── images/    # captures projets
+├── videos/    # démonstrations Loom
+└── projects/  # fiches détaillées
 ```
+
 ---
 
 ## Projets principaux
@@ -94,7 +96,7 @@ aeroworld-portfolio/
 
 Documentation complète :
 
-📁 [Ouvrir la documentation](./docs/README.md)
+📁 [Consulter la documentation technique des projets](./docs/README.md)
 
 ---
 
@@ -105,6 +107,16 @@ Documentation complète :
 
 ---
 
+## Valeur ajoutée
+
+Ce portfolio reflète ma capacité à :
+
+- transformer des données en insights métier ;
+- concevoir des dashboards orientés décision ;
+- développer des solutions Data & IA de bout en bout ;
+- communiquer efficacement avec des profils non techniques.
+
+---
 ## Contact
 
 - GitHub : HamidTec83
