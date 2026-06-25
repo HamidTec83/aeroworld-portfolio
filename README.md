@@ -1,5 +1,13 @@
 # Portfolio Data Analyst & Intelligence Artificielle — Candidature Aéroworld
+
 Portfolio professionnel présentant mes projets Data, BI, Machine Learning et Intelligence Artificielle.
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![SQL](https://img.shields.io/badge/SQL-Database-red)
+![Power BI](https://img.shields.io/badge/Power_BI-Analytics-yellow)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-ML-green)
+![Streamlit](https://img.shields.io/badge/Streamlit-UI-orange)
+![FastAPI](https://img.shields.io/badge/FastAPI-API-teal)
 
 ## Stack technique
 
