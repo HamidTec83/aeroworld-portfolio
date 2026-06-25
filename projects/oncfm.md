@@ -8,6 +8,28 @@ L’objectif consiste à automatiser la détection de faux billets à partir de 
 
 ---
 
+## Captures du projet
+Les visualisations ci-dessous illustrent les performances du modèle final ainsi que son intégration dans un outil de prédiction exploitable en production.
+
+### Courbe ROC
+Comparaison des performances des modèles de classification.
+
+![ROC Curve](../images/oncfm/roc_curve.png)
+
+---
+
+### Matrice de confusion
+Évaluation détaillée du modèle final (régression logistique).
+
+![Confusion Matrix](../images/oncfm/confusion_matrix.png)
+
+---
+
+### Prédiction en ligne de commande
+Exemple d'utilisation du script CLI sur des billets de production.
+
+![CLI Prediction](../images/oncfm/cli_prediction.png)
+
 ## Objectif métier
 
 Le système doit permettre de :
