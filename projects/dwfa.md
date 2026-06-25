@@ -14,6 +14,28 @@ Le projet s’appuie sur des données issues de plusieurs sources internationale
 - données démographiques mondiales.
 
 ---
+## Captures du dashboard
+
+Les captures ci-dessous illustrent les trois niveaux d’analyse du tableau de bord Power BI : mondial, régional et national.
+
+### Vue mondiale
+Cette vue permet d’analyser les indicateurs globaux d’accès à l’eau potable, la mortalité WASH et les pays prioritaires.
+
+![DWFA World View](../images/dwfa/world_view.png)
+
+---
+
+### Vue régionale OMS
+Cette vue compare les performances des différentes régions OMS et met en évidence les écarts d’accès à l’eau.
+
+![DWFA Regional View](../images/dwfa/regional_view.png)
+
+---
+
+### Vue nationale
+Cette vue fournit un diagnostic détaillé par pays avec comparaison rural / urbain et suivi temporel.
+
+![DWFA National View](../images/dwfa/national_view.png)
 
 ## Objectif métier
 
