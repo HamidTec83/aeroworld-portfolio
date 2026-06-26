@@ -80,10 +80,23 @@ Compétences démontrées :
 
 ## Objectif
 
-Ces livrables démontrent ma capacité à :
+Ces livrables démontrent ma capacité à transformer un besoin métier en solution Data structurée, depuis le cadrage initial jusqu’à la restitution décisionnelle.
 
-* analyser un besoin métier ;
-* cadrer un projet Data ;
-* concevoir des dashboards orientés décision ;
-* structurer une documentation professionnelle ;
-* communiquer efficacement avec des profils techniques et non techniques.
+Ils illustrent notamment ma capacité à :
+
+- analyser un besoin métier ;
+- cadrer un projet Data ;
+- concevoir des dashboards orientés décision ;
+- structurer une documentation professionnelle ;
+- communiquer efficacement avec des profils techniques et non techniques.
+
+---
+
+## Livrables disponibles
+
+Les principaux livrables disponibles dans ce dossier sont :
+
+- documentation d’analyse métier ;
+- planning projet (diagramme de Gantt) ;
+- carte mentale de cadrage ;
+- maquettes des dashboards Power BI.
