@@ -94,9 +94,17 @@ aeroworld-portfolio/
 
 ## Documentation
 
-Documentation complète :
+Documentation complète disponible dans le dossier `docs/` :
 
-📁 [Consulter la documentation technique des projets](./docs/README.md)
+📁 [Consulter la documentation du portfolio](./docs/README.md)
+
+Cette documentation rassemble les principaux livrables produits pour structurer le portfolio et formaliser ma démarche de travail dans le cadre de la candidature Aéroworld :
+
+- Analyse du besoin client  
+- Cadrage et planification du projet  
+- Conception des dashboards Power BI  
+
+Elle permet d’approfondir la compréhension de ma démarche de travail, depuis l’analyse métier jusqu’à la restitution décisionnelle.
 
 ---
 
