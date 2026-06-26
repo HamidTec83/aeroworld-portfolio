@@ -1,8 +1,8 @@
 # Documentation Portfolio Aéroworld
 
-Ce dossier regroupe les principaux livrables méthodologiques réalisés dans le cadre de ma candidature chez Aéroworld pour une alternance en Développement Intelligence Artificielle.
+Ce dossier regroupe les principaux livrables méthodologiques réalisés dans le cadre de ma candidature chez **Aéroworld** pour une alternance en **Développement Intelligence Artificielle**.
 
-Ces documents complètent le portfolio principal en apportant une vision plus détaillée de ma démarche de travail, de l’analyse du besoin client jusqu’à la conception des livrables finaux.
+Ces documents complètent le portfolio principal en apportant une vision détaillée de ma démarche de travail, depuis l’analyse du besoin client jusqu’à la conception des livrables finaux.
 
 ---
 
@@ -10,12 +10,16 @@ Ces documents complètent le portfolio principal en apportant une vision plus d�
 
 ### 1. Analyse du besoin client
 
-Cette section contient les documents liés à la compréhension du besoin métier d’Aéroworld :
+```text
+01_analyse_besoin_client/
+```
 
-* analyse du contexte client ;
-* identification des enjeux Data ;
-* formalisation des besoins fonctionnels ;
-* analyse du profil recherché.
+Cette section contient le document principal d’analyse du besoin métier Aéroworld :
+
+* compréhension du contexte client ;
+* identification des enjeux Data & IA ;
+* formalisation des besoins ;
+* cadrage fonctionnel du portfolio.
 
 Compétences démontrées :
 
@@ -27,31 +31,49 @@ Compétences démontrées :
 
 ### 2. Cadrage projet
 
-Cette section regroupe les documents de planification du portfolio :
+```text
+02_cadrage_projet/
+```
 
-* diagramme de Gantt ;
-* carte mentale du projet ;
-* organisation des livrables.
+Documents disponibles :
+
+* `diagramme_gantt_portfolio.xlsx`
+* `carte_mentale_portfolio.pdf`
+
+Cette section regroupe les livrables de planification du projet :
+
+* organisation du planning ;
+* structuration des phases ;
+* vision globale des livrables.
 
 Compétences démontrées :
 
 * gestion de projet ;
 * planification ;
-* structuration méthodologique.
+* organisation méthodologique.
 
 ---
 
-### 3. Conception des dashboards
+### 3. Dashboard design
 
-Cette section présente les maquettes préparatoires des tableaux de bord Power BI :
+```text
+03_dashboard_design/
+```
+
+Documents disponibles :
+
+* `mockup_dashboard_profil.png`
+* `mockup_dashboard_veille.png`
+
+Cette section présente les maquettes préparatoires des dashboards Power BI :
 
 * Dashboard Profil Candidat ;
 * Dashboard Veille Data & IA.
 
 Compétences démontrées :
 
-* UX / UI Data ;
-* design décisionnel ;
+* UX / UI décisionnelle ;
+* design de dashboards ;
 * data storytelling.
 
 ---
@@ -60,10 +82,8 @@ Compétences démontrées :
 
 Ces livrables démontrent ma capacité à :
 
-* analyser un besoin client ;
-* formaliser un cahier des charges ;
-* planifier un projet Data ;
+* analyser un besoin métier ;
+* cadrer un projet Data ;
 * concevoir des dashboards orientés décision ;
-* produire une documentation claire et exploitable.
-
-Cette documentation complète les projets techniques disponibles dans le dossier `projects/` du portfolio.
+* structurer une documentation professionnelle ;
+* communiquer efficacement avec des profils techniques et non techniques.
